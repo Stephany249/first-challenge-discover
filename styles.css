@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #EAEAEA;
+  font-family: 'Roboto', sans-serif;
+  padding-left: 25rem;
+  margin-bottom: 2rem;
+  width: 80%;
+}
+
+.revenue  {
+  background-color: #fff;
+  align-items: center;
+  text-align: center;
+  width: 70%;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.revenue .title {
+  color: #1B1B1B;
+  font-size: 1.75rem;
+  padding: 2rem;
+}
+
+.revenue figure {
+  margin: 0 2rem;
+}
+
+.revenue img {
+  width: 100%;
+  height: 25rem;
+  border-radius: 1rem;
+  object-fit: cover;
+}
+
+.revenue figcaption {
+  font-size: 0.75rem;
+  text-align: right;
+  color: #8F8F8F;
+}
+
+.ingredients .subtitle {
+  color: #1B1B1B;
+  font-size: 1.25rem;
+  margin: 2rem;
+}
+
+.ingredients .idIngredients {
+  font-size: 1rem;
+  color: #000;
+  margin-left: 2rem;
+  line-height: 2.6rem;
+  list-style-position: outside;
+  text-align: left;
+}
+
+
+.methodOfPreparation .subtitle {
+  color: #1B1B1B;
+  font-size: 1.25rem;
+  margin: 2rem;
+}
+
+.methodOfPreparation .idMethodOfPreparation {
+  font-size: 1rem;
+  color: #000;
+  margin-left: 2rem;
+  line-height: 2.6rem;
+  list-style-position: outside;
+  text-align: left;
+}
+
+.information .subtitle {
+  color: #1B1B1B;
+  font-size: 1.25rem;
+  margin: 2rem;
+}
+
+.information p {
+  font-size: 1rem;
+  color: #000;
+  margin-left: 2rem;
+  line-height: 2.6rem;
+  list-style-position: outside;
+  text-align: left;
+}
+
+.footer .footer {
+  align-items: center;
+  text-align: center;
+}
